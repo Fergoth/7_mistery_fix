@@ -3,9 +3,7 @@
 
 # Как использовать
 
-Модуль содержит функцию get_roots которая на вход принимает три параметра a,b,c
-<a href="https://www.codecogs.com/eqnedit.php?latex=ax^2&plus;bx&plus;c" target="_blank"><img src="https://latex.codecogs.com/gif.latex?ax^2&plus;bx&plus;c" title="ax^2+bx+c" /></a>
-
+Модуль содержит функцию get_roots которая на вход принимает три параметра a,b,c (коэффиценты уравнения ax^2+bx+c)  
 Возвращает пару значений, если корень один, в качестве второго параметра передается None,  если корней нет оба параметра равны None
 
 ```
